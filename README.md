@@ -8,3 +8,9 @@
     <summary><h1 style="display: inline-block">Hi there, I'm Manasi Mathkar 👩‍💻 </h1></summary>
   </ul>
 </div>
+
+
+<a href="https://www.youtube.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="youtube"/></a>
+<a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.instagram.com/matyo91"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+
