@@ -66,6 +66,14 @@
     </p>
 </div>
 
+<div id="user-content-toc" align="center">
+    <ul>
+        <summary><h2>📚&nbsp;&nbsp;GitHub Stats&nbsp;&nbsp;</h2> </summary>
+    </ul>
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manasimathkar&layout=compact&theme=dark&hide=dart,MakeFile&langs_count=8)](https://github.com/manasimathkar/github-readme-stats)
+</div>
+
 
 
 
