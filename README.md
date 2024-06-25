@@ -4,7 +4,7 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="left">
+  <ul align="center">
     <summary><h1 style="display: inline-block">Hi there👋, I'm Manasi Mathkar</h1></summary>
   </ul>
 </div>
