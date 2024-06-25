@@ -8,14 +8,26 @@
 
 <div id="user-content-toc" align="center">
     <ul>
-        <summary><h2>☕&nbsp;&nbsp;Let's Connect!&nbsp;&nbsp;</h2> </summary>
+        <summary><h2>☕&nbsp;&nbsp;Let's Connect !&nbsp;&nbsp;</h2> </summary>
     </ul>
     <p align="center">
         <a href="https://www.linkedin.com/in/manasi-mathkar/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&height=40" alt="manasi-mathkar" /></a>
-    &nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
         <a href="mailto:manasimathkar03@gmail.com" target="_blank"> <img align="center" src='https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:manasimathkar03@gmail.com&height=40' alt="manasi-mathkar" /></a>
+         &nbsp;&nbsp;&nbsp;
+        <a href="https://www.instagram.com/pig.caso/" target="_blank"> <img align="center" src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&height=40' alt="manasi-instagram" /></a>
     </p>
 </div>
+
+<div id="user-content-toc" align="center">
+    <ul>
+        <summary><h2>🚀&nbsp;&nbsp;About Me&nbsp;&nbsp;</h2> </summary>
+    </ul>
+    <p>
+        Hey there! I'm Manasi Mathkar, a relentless innovator armed with a Master's in Computer Science from USC and a knack for transforming challenges into digital solutions. Whether it’s designing intuitive web applications or delving deep into the realms of machine learning and AI, I thrive on pushing the boundaries of technology. My journey has been punctuated by successful projects like creating dynamic AI-powered apps and optimizing web solutions for maximum impact. Based in the bustling tech landscape, I'm all about coding, collaboration, and strong coffee. <br><br>Let's make something awesome together !
+    </p>
+</div>
+
 
 <div id="user-content-toc" align="center">
     <ul>
