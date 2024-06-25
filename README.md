@@ -5,21 +5,10 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi there, I'm Manasi Mathkar 👩‍💻 </h1></summary>
+    <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Manasi </h1>
   </ul>
 </div>
 
 
-<p align='center'>
-  <a href='mailto:manasimathkar03@gmail.com' target="_blank">
-      <img src='https://img.shields.io/badge/manasimathkar03@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:manasimathkar03@gmail.com'>
-  </a>
-  <a href='https://www.linkedin.com/in/manasi-mathkar' target="_blank">
-      <img src='https://img.shields.io/badge/-ManasiMathkar?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manasi-mathkar/'>
-  </a>
-  <a href='' target="_blank">
-      <img src='https://img.shields.io/badge/portfolio-web-yellow?style=curve&link=' alt='Website'>
-  </a>
-</p>
 
 
