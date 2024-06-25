@@ -12,7 +12,7 @@
 
 <div id="user-contact-toc">
   <ul align="center">
-    <a href="https://www.youtube.com/user/matyo91" style="width: 20px"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="youtube"/></a>
+    <a href="https://www.youtube.com/user/matyo91" style="width: 20"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="youtube"/></a>
     <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
     <a href="https://www.instagram.com/matyo91"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   </ul>
