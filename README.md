@@ -38,22 +38,31 @@
         <img src="https://img.icons8.com/color/452/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/> &nbsp;
         <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" width="40" height="40"/> &nbsp;
         <img src="https://img.icons8.com/color/452/c-plus-plus-logo.png" alt="C++" width="40" height="40"/> &nbsp;
+        <img src="https://img.icons8.com/color/452/html-5.png" alt="HTML" width="40" height="40"/> &nbsp;
         <img src="https://img.icons8.com/color/452/javascript--v1.png" alt="JavaScript" width="40" height="40"/> &nbsp;
+        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" height="40"/> &nbsp;
+        <img src="https://img.icons8.com/color/452/css3.png" alt="CSS" width="40" height="40"/> &nbsp;
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="40" height="40"/> &nbsp;
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> &nbsp;
+        <img src="https://img.icons8.com/color/452/angularjs.png" alt="Angular" width="40" height="40"/> &nbsp;
         <img src="https://img.icons8.com/color/452/nodejs.png" alt="Node.js" width="40" height="40"/> &nbsp;
+        <img src="https://img.icons8.com/color/452/django.png" alt="Django" width="40" height="40"/> &nbsp;
         <img src="https://img.icons8.com/color/452/firebase.png" alt="Firebase" width="40" height="40"/> &nbsp;
         <img src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB" width="40" height="40"/> &nbsp;
         <img src="https://img.icons8.com/color/452/mysql-logo.png" alt="MySQL" width="40" height="40"/> &nbsp;
+        <img src="https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=FFFFFF" alt="SQLite" width="40" height="40"/> &nbsp;
         <img src="https://img.icons8.com/color/452/postgreesql.png" alt="PostgreSQL" width="40" height="40"/> &nbsp;
+        <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=FFFFFF" alt="Flask" width="40" height="40"/> &nbsp;
+        <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="40" height="40"/> &nbsp;
         <img src="https://img.icons8.com/color/452/amazon-web-services.png" alt="AWS" width="40" height="40"/> &nbsp;
         <img src="https://img.icons8.com/fluency/452/google-cloud.png" alt="Google Cloud" width="40" height="40"/> &nbsp;
-        <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/> &nbsp;
-        <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="40" height="40"/> &nbsp;
-        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" height="40"/> &nbsp;
-        <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="40" height="40"/> &nbsp;
-        <img src="https://img.icons8.com/color/452/django.png" alt="Django" width="40" height="40"/> &nbsp;
         <img src="https://img.icons8.com/color/452/docker.png" alt="Docker" width="40" height="40"/> &nbsp;
         <img src="https://img.icons8.com/color/452/git.png" alt="Git" width="40" height="40"/> &nbsp;
+        <img src="https://img.icons8.com/color/452/linux.png" alt="Linux" width="40" height="40"/> &nbsp;
+        <img src="https://img.icons8.com/color/452/windows-logo.png" alt="Windows" width="40" height="40"/> &nbsp;
+        <img src="https://img.icons8.com/color/452/mac-os.png" alt="macOS" width="40" height="40"/> &nbsp;
+        <img src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" alt="macOS" width="40" height="40"/> &nbsp;
+</p>
     </p>
 </div>
 
