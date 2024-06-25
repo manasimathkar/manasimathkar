@@ -15,7 +15,7 @@
       <img src='https://img.shields.io/badge/manasimathkar03@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:manasimathkar03@gmail.com'>
   </a>
   <a href='https://www.linkedin.com/in/manasimathkar' target="_blank">
-      <img src='https://img.shields.io/badge/-ManasiMathkar?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manasimathkar/'>
+      <img src='https://img.shields.io/badge/-ManasiMathkar?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manasi-mathkar/'>
   </a>
   <a href='' target="_blank">
       <img src='https://img.shields.io/badge/portfolio-web-yellow?style=curve&link=' alt='Website'>
