@@ -53,7 +53,6 @@
         <img src="https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=FFFFFF" alt="SQLite" width="40" height="40"/> &nbsp;
         <img src="https://img.icons8.com/color/452/postgreesql.png" alt="PostgreSQL" width="40" height="40"/> &nbsp;
         <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=FFFFFF" alt="Flask" width="40" height="40"/> &nbsp;
-        <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="40" height="40"/> &nbsp;
         <img src="https://img.icons8.com/color/452/amazon-web-services.png" alt="AWS" width="40" height="40"/> &nbsp;
         <img src="https://img.icons8.com/fluency/452/google-cloud.png" alt="Google Cloud" width="40" height="40"/> &nbsp;
         <img src="https://img.icons8.com/color/452/docker.png" alt="Docker" width="40" height="40"/> &nbsp;
